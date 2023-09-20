@@ -2,7 +2,7 @@
 
 This is my repository that will hold my lab assignments. 🌻
 
-<img width="136" alt="Screenshot 2022-10-10 at 16 34 32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdeveloper-illustration&psig=AOvVaw3QYFa2tSBwpdKPXA2l4Iij&ust=1695308733172000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjexqi7uYEDFQAAAAAdAAAAABAQ">
+<img width="136" alt="Screenshot 2022-10-10 at 16 34 32" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1695222412~exp=1695223012~hmac=575cdf85272c89397c9bfd553a8ccb0a43927885f25e4013f64458c3c87a5b06">
 
 | Task name                    | Information | Link |
 | ---------------------------- | ----------- | ---- |
