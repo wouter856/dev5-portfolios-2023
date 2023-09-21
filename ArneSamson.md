@@ -8,6 +8,6 @@ link to [My Portfolio](https://github.com/ArneSamson/DEV5-myportfolio)
 
 | Task |  description  |
 |---|---|
-|  link to [Labo 1](https://github.com/ArneSamson) |  Group Website & learning branching  |
+|  link to [Labo 1](https://github.com/EviVermeeren/DEV5-LAB1/tree/main) |  Group Website & learning branching  |
 |   |   |
 |   |   |
