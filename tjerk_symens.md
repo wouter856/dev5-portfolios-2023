@@ -1,7 +1,7 @@
 # 3XD - Tjerk Symens
 
-| Task                                             | Description   |
-| ------------------------------------------------ | ------------- |
-| [Lab1](https://github.com/tjerksymens/dev5-lab1) | Git branching |
-|                                                  |               |
-|                                                  |               |
+| Task | Description   | Git                                      |
+| ---- | ------------- | ---------------------------------------- |
+| Lab1 | Git branching | https://github.com/tjerksymens/dev5-lab1 |
+|      |               |                                          |
+|      |               |                                          |
