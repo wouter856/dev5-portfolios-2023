@@ -5,7 +5,7 @@ https://github.com/GlennVinck/dev5-myportfolio.git
 
 | Lab                    | GitHub     | CodeSandBox   |
 | ---------------------------- | ---------- | ------------  |
-| `'Lab 1 - GIT to work'`      | https://github.com/GlennVinck/dev5-lab1.git | https://h3rpwn.csb.app/ |
+| `'Lab 1 - GIT to work'`      | https://github.com/GlennVinck/dev5-lab1.git | https://h3rpwn.codesandbox.io/ |
 | `'Lab 2 - Islands'`          |            |               |
 | `'Lab 3 - Weather Based Ad'` |            |               |
 | `'Lab 4 - NodeJS'`           |            |               |
