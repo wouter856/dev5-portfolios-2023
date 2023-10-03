@@ -18,4 +18,7 @@
 | Lab 5    | N/A                                 | [Repo](#)                              | N/A                                |
 | Lab 6    | N/A                                 | [Repo](#)                              | N/A                                |
 
+## An interesting new feature of ES2018
+The spread syntax, lets you expand arrays, strings, or objects where you need multiple values or properties. It's like unpacking elements or key-value pairs.
+
 ![peepoChat Image](https://cdn.7tv.app/emote/62ec1cfdd2e11183867d8c3b/4x.webp)
