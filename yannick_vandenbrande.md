@@ -19,7 +19,14 @@
 | Lab 6    | N/A                                 | [Repo](#)                              | N/A                                |
 
 ## An interesting new feature of ES2018
-The spread syntax, lets you expand arrays, strings, or objects where you need multiple values or properties. It's like unpacking elements or key-value pairs.
+Spread syntax, introduced in ES2018, is a useful feature in JavaScript that allows you to spread out the elements of an array, string, or key-value pairs of an object in various situations. It's like taking the contents of a container and placing them individually wherever they're needed.
+
+For example:
+- In function calls, you can use spread syntax to pass multiple arguments easily.
+- In array literals, you can combine arrays or add elements to an existing array.
+- In object literals, you can merge objects or add new key-value pairs to an object.
+
+Spread syntax simplifies working with data by making it more flexible and readable in your code.
 
 ### [An example of this is from MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
