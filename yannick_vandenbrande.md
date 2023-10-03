@@ -21,4 +21,10 @@
 ## An interesting new feature of ES2018
 The spread syntax, lets you expand arrays, strings, or objects where you need multiple values or properties. It's like unpacking elements or key-value pairs.
 
+### [An example of this is from MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+    const parts = ["shoulders", "knees"];
+    const lyrics = ["head", ...parts, "and", "toes"];
+    //Output: ["head", "shoulders", "knees", "and", "toes"]
+
 ![peepoChat Image](https://cdn.7tv.app/emote/62ec1cfdd2e11183867d8c3b/4x.webp)
