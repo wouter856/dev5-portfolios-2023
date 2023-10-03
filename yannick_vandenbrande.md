@@ -27,4 +27,10 @@ The spread syntax, lets you expand arrays, strings, or objects where you need mu
     const lyrics = ["head", ...parts, "and", "toes"];
     //Output: ["head", "shoulders", "knees", "and", "toes"]
 
+### [Conditionally adding values to an array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+    const isSummer = false;
+    const fruits = ["apple", "banana", ...(isSummer ? ["watermelon"] : [])];
+    //Output: ['apple', 'banana']
+
+
 ![peepoChat Image](https://cdn.7tv.app/emote/62ec1cfdd2e11183867d8c3b/4x.webp)
