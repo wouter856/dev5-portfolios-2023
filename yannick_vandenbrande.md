@@ -12,7 +12,7 @@
 | **Name**        | **Description**                                | **GitHub Repo** |
 |-----------------|-----------------------------------------------|-----------------|
 | Lab 1           | Voice controlled music player                | [Repo](https://github.com/Nvnchi/lab1) |
-| Lab 2           | N/A                     | [Repo](#)        |
+| Lab 2           | Interactive random island generator                    | [Repo](https://github.com/NANIOY/lab2)       |
 | Lab 3           | N/A                     | [Repo](#)        |
 | Lab 4           | N/A                     | [Repo](#)        |
 | Lab 5           | N/A                     | [Repo](#)        |
