@@ -11,3 +11,8 @@
 [GitHub link](https://github.com/TiboMertens/IslandsES6)
 
 [Codesanbox link](https://codesandbox.io/s/lab2-dj97k9?file=/js/classes/World.js)
+
+## Lab 2 - API advertisement
+[GitHub link](https://github.com/TiboMertens/dev5-labo3)
+
+[Codesanbox link](https://codesandbox.io/s/practical-ace-y7fn5m?file=/index.html)
