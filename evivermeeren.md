@@ -7,8 +7,8 @@ This is my repository that will hold my lab assignments. 🌻
 | Task name                    | Information | Link |
 | ---------------------------- | ----------- | ---- |
 | `'Lab 1 - GIT to work'`      | Made a voice-controlled music player |   https://github.com/EviVermeeren/DEV5-LAB1 / https://codesandbox.io/s/speech-music-7qswsd?file=/index.html   |
-| `'Lab 2 - Islands'`          |  Made a Pokémon Island            |  https://github.com/EviVermeeren/DEV5-LAB2 / https://codesandbox.io/s/islands-starter-forked-c9zmxs  |
-| `'Lab 3 - Weather Based Ad'` |             |      |
+| `'Lab 2 - Islands'`          | Made a Pokémon Island            |  https://github.com/EviVermeeren/DEV5-LAB2 / https://codesandbox.io/s/islands-starter-forked-c9zmxs  |
+| `'Lab 3 - Weather Based Ad'` | Made a weather based ad            | https://github.com/EviVermeeren/DEV5-LAB3 / https://codesandbox.io/s/suspicious-feynman-wq352w?file=/index.html / / https://wq352w.csb.app/|
 | `'Lab 4 - NodeJS'`           |             |      |
 | `'Lab 5 - VueJS'`            |             |      |
 | `'Lab 6 - Web Sockets'`      |             |      |
