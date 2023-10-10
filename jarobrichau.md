@@ -2,7 +2,7 @@
 
 | **Welk lab**   | Met wie   | Link labo   | Live Link   |
 |---------------|-----------|-----------|------------|
-| Lab 1 | Zegher Baerts | [Lab 1 - Speech Recognition](https://github.com/zegher/LAB1-DEV5-SPEECH) | [Live Lab 1](link-naar-live-lab-1) |
+| Lab 1 | Zegher Baerts | [Lab 1 - Speech Recognition](https://github.com/zegher/LAB1-DEV5-SPEECH) | [Live Lab 1]([link-naar-live-lab-1](https://lab-1-speech-5owlbjnlr-jarob2002.vercel.app/)) |
 | Lab 2 | Partner Naam | [Lab 2 - Projectnaam](https://github.com/JaroB2002/Lab2) | [Live Lab 2](link-naar-live-lab-2) |
 | Lab 3 | Partner Naam | [Lab 3 - Projectnaam](https://github.com/JaroB2002/Lab_3) | [Live Lab 3](https://lab-3-sepia.vercel.app/) |
 | Lab 4 | Partner Naam | [Lab 4 - Projectnaam](Link naar Lab 4) | [Live Lab 4](link-naar-live-lab-4) |
