@@ -12,5 +12,5 @@
 | Lab 6 | Partner Naam | [Lab 6 - Projectnaam](Link naar Lab 6) |
 
 ### Andere Projecten
-update
+
 [Bekijk mijn andere vakoverschrijdende projecten](https://github.com/JaroB2002?tab=repositories)
