@@ -1,3 +1,6 @@
+# link demo lab 3 (codesandbox): https://gkrkr9.csb.app/
+# link github repo labo 3: https://github.com/sarahlisamero/labo3
+
 # link demo lab 2 (codesandbox): https://r4w2gw.csb.app/#
 # link github repo labo 2: https://github.com/sarahlisamero/labo2
 ## samenvatting JavaScript Object Spread
