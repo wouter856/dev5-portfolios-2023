@@ -5,7 +5,7 @@
 
 | labo        |link           | CodeSandbox  |
 | ------------- |:-------------:| -----:|
-| labo 1      | [Link](https://github.com/Bram-Colleman/Lab1-Speech) |  [Link]()|
+| labo 1      | [Link](https://github.com/Bram-Colleman/Lab1-Speech) |  [Link](lab1-speech-g088lmn5u-mogumogudjs-projects.vercel.app)|
 
 | labo        |link           | CodeSandbox  |
 | ------------- |:-------------:| -----:|
