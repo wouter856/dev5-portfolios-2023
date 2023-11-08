@@ -16,3 +16,8 @@
 [GitHub link](https://github.com/TiboMertens/dev5-labo3)
 
 [Codesanbox link](https://codesandbox.io/s/practical-ace-y7fn5m?file=/index.html)
+
+# Lab 4 - building an API
+[GitHub link](https://github.com/TiboMertens/nodejs-messages)
+
+[Codepen link](https://codepen.io/TiboMertens/full/oNJVppO)
