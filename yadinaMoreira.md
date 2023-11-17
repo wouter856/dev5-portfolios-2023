@@ -11,3 +11,6 @@
 
 ## Link demo labo 4: https://5nvqj2.csb.app/
 ## Link repo labo 4: https://github.com/YadinaM/labo4-messages-api
+
+## Link demo labo 5: https://t9549p-5173.csb.app/
+## Link repo labo 5: https://github.com/YadinaM/labo5_chat
