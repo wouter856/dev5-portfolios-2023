@@ -17,7 +17,12 @@
 
 [Codesanbox link](https://codesandbox.io/s/practical-ace-y7fn5m?file=/index.html)
 
-# Lab 4 - building an API
+## Lab 4 - building an API
 [GitHub link](https://github.com/TiboMertens/nodejs-messages)
 
 [Codepen link](https://codepen.io/TiboMertens/full/oNJVppO)
+
+## Lab 5 - Vue.JS tiktok comments
+[GitHub link](https://github.com/TiboMertens/labo5-vue)
+
+[Vercel link](https://labo5-vue.vercel.app/)
