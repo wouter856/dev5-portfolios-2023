@@ -11,3 +11,8 @@
 
 [Github Link](https://github.com/brittadam/labo2_britt)
 [Codesandbox link](https://h6dp25.csb.app/)
+
+## Lab3
+
+[Github Link](https://github.com/brittadam/lab3)
+[Codesandbox link](https://9jmlvl.csb.app/)
