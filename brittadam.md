@@ -20,4 +20,4 @@
 ## Lab4
 
 [Github Link](https://github.com/brittadam/nodejs-messages-api-2)
-[Codepen link](https://codepen.io/britt-adam/full/ZEwxYjz)
+[Codesandbox link](https://d4zdq4.csb.app/)
