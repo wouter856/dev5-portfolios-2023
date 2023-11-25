@@ -13,4 +13,4 @@ This is my repository that will hold my lab assignments. 🌻
 | `'Lab 5 - VueJS'`            | Made a cool tiktok feed            | https://github.com/EviVermeeren/DEV5-LAB5 / https://dev-5-lab-5-roan.vercel.app/ |
 | `'Lab 6 - Web Sockets'`      | Made a score board for MotoGP 🏍  | https://github.com/EviVermeeren/DEV5-LAB6-FRONTEND / https://github.com/EviVermeeren/DEV5-LAB6-BACKEND / https://dev-5-lab-6-frontend-rho.vercel.app/ | 
 
-![Animated GIF]([https://example.com/path/to/your.gif](https://github.com/EviVermeeren/DEV5-LAB6-FRONTEND/blob/main/DEV5-LABO6-GIF.gif)https://github.com/EviVermeeren/DEV5-LAB6-FRONTEND/blob/main/DEV5-LABO6-GIF.gif)
+![Animated GIF](https://github.com/EviVermeeren/DEV5-LAB6-FRONTEND/blob/main/DEV5-LABO6-GIF.gif?raw=true)
