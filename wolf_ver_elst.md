@@ -9,7 +9,7 @@
 
 | labo        |link           | CodeSandbox  |
 | ------------- |:-------------:| -----:|
-| labo 2      | [Link](https://github.com/mogumogudj/Lab2-Islands) |  [Link]()|
+| labo 2      | [Link](https://github.com/mogumogudj/Lab2-Islands) |  [Link](https://codesandbox.io/p/sandbox/islands-starter-forked-tcqy8d?file=%2Fjs%2Fclasses%2FIsland.js)|
 
 | labo        |link           | Vercel  |
 | ------------- |:-------------:| -----:|
