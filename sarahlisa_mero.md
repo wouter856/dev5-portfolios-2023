@@ -1,3 +1,9 @@
+# link demo lab 5 (vercel): https://labo5.vercel.app/
+# link github repo lab 5: https://github.com/sarahlisamero/labo5 
+
+# link demo lab 4 (codesandbox): https://mrrkrk.csb.app/
+# link github repo lab 4: https://github.com/sarahlisamero/labo4-nomongo
+
 # link demo lab 3 (codesandbox): https://gkrkr9.csb.app/
 # link github repo labo 3: https://github.com/sarahlisamero/labo3
 
