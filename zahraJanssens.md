@@ -8,7 +8,7 @@
 
 | `'Lab 3 - Weather Based Ad'` | https://github.com/zzahraJ/Labo3                       | https://jvkrh4.csb.app/       |
 
-| `'Lab 4 - NodeJS'`           | https://github.com/zzahraJ/    Lab4                           |                                                        | https://q8w2jf.csb.app/                           |
+| `'Lab 4 - NodeJS'`           | https://github.com/zzahraJ/Lab4                        | https://q8w2jf.csb.app/       |
 
 | `'Lab 5 - VueJS'`            |                                                        |                               |
 
