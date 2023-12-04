@@ -15,7 +15,7 @@
 | Lab 2    | Interactive random island generator | [Repo](https://github.com/NANIOY/lab2) | [Sandbox](https://jc48r3.csb.app/)               |
 | Lab 3    | Weather ad with quote               | [Repo](https://github.com/NANIOY/lab3) | [Vercel](https://lab3-eosin-iota.vercel.app/)    |
 | Lab 4    | Messages API                        | [Repo](https://github.com/NANIOY/lab4) | [CodePen](https://codepen.io/NanioY/pen/mdvEzEN) |
-| Lab 5    | N/A                                 | [Repo](#)                              | N/A                                              |
+| Lab 5    | TikTok chat app                     | [Repo](https://github.com/NANIOY/lab5) | [Vercel](https://lab5-ten.vercel.app/)           |
 | Lab 6    | N/A                                 | [Repo](#)                              | N/A                                              |
 
 ## An interesting new feature of ES2018
