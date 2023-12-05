@@ -11,4 +11,5 @@
 | labo 4     | [Link](https://github.com/lindsaySchool/nodejs-messages.git) |  [Link](https://codepen.io/LindsaySchool/pen/qBgWovB)|
 | labo 4 - with mongodb     | [Link](https://github.com/lindsaySchool/lab4.git) |  [Link](https://codepen.io/LindsaySchool/pen/qBgWovB)|
 | labo 5    | [Link](https://github.com/lindsaySchool/lab5.git) |  [Link](https://lab5-gray.vercel.app/)|
+| labo 6    | [Link backend](https://github.com/lindsaySchool/lab6.git) [Link frontend](https://github.com/lindsaySchool/lab6---frontend.git)|  [Link Vercel](https://lab6-frontend-delta.vercel.app/)[Link Zight](https://share.zight.com/z8udegW7)|
 
