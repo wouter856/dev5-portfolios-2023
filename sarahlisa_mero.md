@@ -1,3 +1,7 @@
+# link demo lab 4 met mongo (codesandbox): https://y5m96l.csb.app/
+# link github repo lab 4 met mongo: https://github.com/sarahlisamero/nodejs-messages-api-2
+# link render api: https://messages-api-mongo-p0e2.onrender.com
+
 # link demo lab 6: https://lab6-frontend-two.vercel.app/
 # link github repo lab 6 backend: https://github.com/sarahlisamero/lab6_backend
 # link github repo lab 6 frontend: https://github.com/sarahlisamero/lab6_frontend
