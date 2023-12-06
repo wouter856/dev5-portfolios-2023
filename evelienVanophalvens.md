@@ -9,3 +9,7 @@ Lab 3       | Advertisment Landrover                | https://github.com/Evelien
 Lab 4       | node                                  | https://github.com/EvelienVanophalvens/dev5-Lab4  | https://codepen.io/Evelien-Vanophalvens/pen/mdaYWyz     |
 Lab 5       | messages tiktok                       | https://github.com/EvelienVanophalvens/dev5-Lab5  | https://lab5-five.vercel.app                            |
 Lab 6       | scores                                |backend:https://github.com/EvelienVanophalvens/dev5-lab6-backend, frontend1: https://github.com/EvelienVanophalvens/dev5-lab6-frontend1, frontend2:https://github.com/EvelienVanophalvens/dev5-lab6-frontend2               | https://lab6-front1.vercel.app/, https://lab6-front2.vercel.app/             
+
+Video lab6:
+https://github.com/EvelienVanophalvens/dev5-portfolios-2023/assets/106312898/0c5600ed-da2e-4c95-8402-c30c25c56c68
+
