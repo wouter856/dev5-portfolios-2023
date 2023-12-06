@@ -11,7 +11,7 @@
 |-----|-------------------------------|-----------------------------|
 |lab 1|voice controlled music player|**[here](https://github.com/Nvnchi/lab1)**|**[codesandbox](https://l4x4v6.csb.app)**|
 |lab 2|island generator|**[here](https://github.com/Nvnchi/lab2)**|**[codesandbox](https://s3mdll.csb.app)**|
-|lab 3|?|**[here](#)**|**[link](#)**|
+|lab 3|weather and cat api|**[here](https://github.com/Nvnchi/lab3)**|**[vercel](https://lab3-pearl.vercel.app)**|
 |lab 4|?|**[here](#)**|**[link](#)**|
 |lab 5|?|**[here](#)**|**[link](#)**|
 |lab 6|?|**[here](#)**|**[link](#)**|
