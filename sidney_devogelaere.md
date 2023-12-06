@@ -7,11 +7,11 @@
 
 🌿 to make it all easier, i have all my lab projects gathered here.
 
-||description|can be found...|
+||description|can be found...|or on...|
 |-----|-------------------------------|-----------------------------|
-|lab 1|voice controlled music player|**[here](https://github.com/Nvnchi/lab1)**|
-|lab 2|?|**[here](#)**|
-|lab 3|?|**[here](#)**|
-|lab 4|?|**[here](#)**|
-|lab 5|?|**[here](#)**|
-|lab 6|?|**[here](#)**|
+|lab 1|voice controlled music player|**[here](https://github.com/Nvnchi/lab1)**|**[codesandbox](https://l4x4v6.csb.app)**|
+|lab 2|island generator|**[here](https://github.com/Nvnchi/lab2)**|**[codesandbox](https://s3mdll.csb.app)**|
+|lab 3|?|**[here](#)**|**[link](#)**|
+|lab 4|?|**[here](#)**|**[link](#)**|
+|lab 5|?|**[here](#)**|**[link](#)**|
+|lab 6|?|**[here](#)**|**[link](#)**|
