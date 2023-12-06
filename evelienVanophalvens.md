@@ -11,5 +11,9 @@ Lab 5       | messages tiktok                       | https://github.com/Evelien
 Lab 6       | scores                                |backend:https://github.com/EvelienVanophalvens/dev5-lab6-backend, frontend1: https://github.com/EvelienVanophalvens/dev5-lab6-frontend1, frontend2:https://github.com/EvelienVanophalvens/dev5-lab6-frontend2               | https://lab6-front1.vercel.app/, https://lab6-front2.vercel.app/             
 
 Video lab6:
-https://github.com/EvelienVanophalvens/dev5-portfolios-2023/assets/106312898/0c5600ed-da2e-4c95-8402-c30c25c56c68
+
+
+
+
+https://github.com/EvelienVanophalvens/dev5-portfolios-2023/assets/106312898/5d2d9235-28b4-4d77-b04b-4fccf99a0cee
 
