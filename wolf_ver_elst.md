@@ -14,3 +14,11 @@
 | labo        |link           | Vercel  |
 | ------------- |:-------------:| -----:|
 | labo 3     | [Link](https://github.com/mogumogudj/Lab3-WeatherApp) |  [Link](https://lab3-weather-app.vercel.app/)|
+
+| labo        |link           | Vercel  |
+| ------------- |:-------------:| -----:|
+| labo 4     | [Link]() |  [Link]()|
+
+| labo        |link           | Vercel  |
+| ------------- |:-------------:| -----:|
+| labo 5     | [Link](https://github.com/mogumogudj/tiktok-vue) |  [Link](https://tiktok-vue-six.vercel.app/)|
