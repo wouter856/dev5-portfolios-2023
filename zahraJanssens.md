@@ -12,4 +12,6 @@
 
 | `'Lab 5 - VueJS'`            | https://github.com/zzahraJ/Labo5-vue             | https://labo5-vue-delta.vercel.app/     |
 
-| `'Lab 6 - Web Sockets'`      |                                                  |                                         |
+| `'Lab 6 - Web Sockets'`      | https://github.com/zzahraJ/LABO6-BACK &  https://github.com/zzahraJ/LABO6-FRONT            |
+
+| ![Animated GIF](https://github.com/zzahraJ/LABO6-FRONT/blob/main/LABO6-Video.gif)                                         |
