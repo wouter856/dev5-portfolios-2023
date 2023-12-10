@@ -15,3 +15,7 @@
 | `'Lab 6 - Web Sockets'`      | https://github.com/zzahraJ/LABO6-BACK &  https://github.com/zzahraJ/LABO6-FRONT            |
 
 | ![Animated GIF](https://github.com/zzahraJ/LABO6-FRONT/blob/main/LABO6-Video.gif)                                         |
+
+| `'Link naar het scoreboard'` https://labo-6-front.vercel.app/#/                                                           |
+
+| `'Link naar update score'` https://labo-6-front.vercel.app/#/updatescore                                                  |
