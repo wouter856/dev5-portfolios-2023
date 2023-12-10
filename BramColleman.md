@@ -11,3 +11,7 @@
 ## Lab 4 - Node
 - [GitHub link](https://github.com/Bram-Colleman/LAB4-Node)
 - [Live link](https://5m67vw.csb.app/)
+
+## Lab 5 - Vue
+- [GitHub link](https://github.com/Bram-Colleman/DEV5-portfolio/tree/main/Lab%205%20-%20Vue)
+- [Live link](https://lab5-vue.vercel.app/)
