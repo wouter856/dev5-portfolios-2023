@@ -25,4 +25,4 @@
 
 | labo        |link           | Vercel  |
 | ------------- |:-------------:| -----:|
-| labo 6     | [Link]() |  [Link]()|
+| labo 6     | [Link](https://github.com/mogumogudj/lab6-web-sockets) |  [Link]()|
