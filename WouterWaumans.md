@@ -1,5 +1,9 @@
 # 3XD - Wouter Waumans
 [Mijn GitHub](https://github.com/wouter856/dev5-portfolios-2023)
+<br>
+Just for fun we will code so much 😣
+[My portfolio website](https://www.akuutweb.be/)
+
 
 
 | Task              | Live Demo                                                           | Git                                                                         |
