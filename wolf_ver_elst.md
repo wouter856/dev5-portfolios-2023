@@ -17,7 +17,7 @@
 
 | labo        |link           | Vercel  |
 | ------------- |:-------------:| -----:|
-| labo 4     | [Link](https://github.com/mogumogudj/nodejs-messages-api-2) |  [Link]()|
+| labo 4     | [Link](https://github.com/mogumogudj/nodejs-messages-api-2) |  [Link](https://nodejs-messages-api-2.vercel.app/)|
 
 | labo        |link           | Vercel  |
 | ------------- |:-------------:| -----:|
@@ -25,4 +25,4 @@
 
 | labo        |link           | Vercel  |
 | ------------- |:-------------:| -----:|
-| labo 6     | [Link](https://github.com/mogumogudj/lab6-web-sockets) |  [Link]()|
+| labo 6     | [Link](https://github.com/mogumogudj/lab6-web-sockets) |  [Link](https://lab6-web-sockets.vercel.app/)|
