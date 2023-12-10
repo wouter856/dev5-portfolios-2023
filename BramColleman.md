@@ -1,5 +1,10 @@
 # My portfolio
 
+## Lab 1 - Speech
+- [GitHub link](https://github.com/Bram-Colleman/Lab1-Speech)
+- [Live link](https://lab1-speech-git-lights-bram-collemans-projects.vercel.app/)
+- Comments added: "licht uit" & "licht aan"
+
 ## Lab 2 - islands ES6
 - [GitHub link](https://github.com/Bram-Colleman/DEV5-portfolio/tree/main/Lab%202%20-%20Islands)
 - [Codesandbox link](https://2yzqyw.csb.app/)
